@@ -6,6 +6,7 @@
 - Original dataset: 'Data_Train.xlsx'
 - The dataset originally used on the wesbite has been cleaned by me, which is the one included in the project as 'car_clean.csv'
 - Cleaned Dataset has 6019 data points and 14 features.
+- The data_viz_slides.html is the final presentation consisting of tutorial.
 
 ## Packages used:
 - [numpy](https://numpy.org/)
